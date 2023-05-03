@@ -1,0 +1,4 @@
+*@begsaha
+*.js @begsaha
+*.yml @begsaha
+/public/ @sudip34
